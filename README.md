@@ -27,13 +27,9 @@
   <img src="https://skillicons.dev/icons?i=python,go,nodejs,docker,postgres,mongodb,linux,git,nginx" />
 </p>
 
-- 🛠 Dokoola (Work Marketplace)  
-- 📩 XendSpark (Messaging Infrastructure)  
-- ⚙️ Backend systems with Django, FastAPI & Go  
-
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,fastapi,nextjs,react,js,redis,firebase,tailwind" />
@@ -41,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=medmaha&show_icons=true&theme=tokyonight" />
@@ -66,7 +62,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:toure925@outlook.com">
-    <img src="https://skillicons.dev/icons?i=outlook" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
