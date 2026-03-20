@@ -1,71 +1,77 @@
-<h1 align="center">Hi, I'm Mahammed Touray 👋</h1>
+<h1 align="center"><i>Ayam</i>, Mahammed Touray</h1>
 
 <p align="center">
   Full-Stack Developer | DevOps | Building real-world solutions in The Gambia
+</p>
+
+<p align="center">
+  <a href="https://github.com/medmaha">
+    <img src="https://komarev.com/ghpvc/?username=medmaha&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- Self-taught Software Engineer since (Feb 14) 2022
-- Currently building **Dokoola** (work marketplace)
-- Interested in scalable systems, APIs, and real-world problem solving
-- Focused on growth, not noise
+- Self-taught Software Engineer since Feb 14, 2022  
+- Building products, not just projects  
+- Focused on scalable systems & real-world impact  
+- Currently exploring remote opportunities  
 
 ---
 
-## 🧠 What I'm Working On
+## 🧠 Current Focus
 
-- 🛠 Dokoola (Job + Opportunity Marketplace)
-- 📩 XendSpark (Local-first messaging infrastructure)
-- ⚙️ Backend systems with (Django, FastAPI) & Golang
-- 🌐 Exploring remote opportunities
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,nodejs,docker,postgres,mongodb,linux,git,nginx" />
+</p>
+
+- 🛠 Dokoola (Work Marketplace)  
+- 📩 XendSpark (Messaging Infrastructure)  
+- ⚙️ Backend systems with Django, FastAPI & Go  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**
-- Python
-- Go (Golang)
-- JavaScript
-
-**Frameworks & Tools:**
-- Django
-- Node.js
-- Docker
-- PostgreSQL
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Dokoola
-Marketplace connecting people to verified opportunities  
-> Freelance, jobs, internships, contracts
-
-### 🔹 XendSpark
-WhatsApp-based notification system for businesses  
-> Alternative to traditional SMS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nextjs,react,js,redis,firebase,tailwind" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medmaha&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=medmaha&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medmaha&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🧭 Activity Graph
 
-- LinkedIn: htts://linkedin.com/in/mtouray101
-- Email: toure925@outlook.com
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medmaha&theme=tokyo-night" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mtouray101">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:toure925@outlook.com">
+    <img src="https://skillicons.dev/icons?i=outlook" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  "Building solutions that actually matter."
+  <i>"Building solutions that actually matter."</i>
 </p>
