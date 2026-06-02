@@ -1,9 +1,7 @@
-<h1 align="center"><i>Ayam</i>, Mahammed Touray</h1>
-
+<h1 align="center">Ayam, Mahammed Touray</h1>
 <p align="center">
-  Full-Stack Developer | DevOps | Building real-world solutions in The Gambia
+  Full-Stack Engineer | DevOps | Building real-world products from The Gambia
 </p>
-
 <p align="center">
   <a href="https://github.com/medmaha">
     <img src="https://komarev.com/ghpvc/?username=medmaha&label=Profile%20views&color=0e75b6&style=flat" />
@@ -12,17 +10,15 @@
 
 ---
 
-## 🚀 About Me
-
-- Self-taught Software Engineer since Feb 14, 2022  
-- Building products, not just projects  
-- Focused on scalable systems & real-world impact  
-- Currently exploring remote opportunities  
+## About Me
+- 4+ years building and shipping production-grade web applications
+- Founder & Lead Engineer of [Dokoola](https://dokoola.com) — a live job marketplace serving 100+ talents and 35+ employers in The Gambia
+- Delivered production systems for US and UK clients in distributed remote teams
+- Open to remote full-time and contract opportunities worldwide
 
 ---
 
-## 🧠 Current Focus
-
+## Current Focus
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,nodejs,docker,postgres,mongodb,linux,git,nginx" />
 </p>
@@ -30,15 +26,13 @@
 ---
 
 ## Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nextjs,react,js,redis,firebase,tailwind" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nextjs,react,ts,redis,firebase,tailwind" />
 </p>
 
 ---
 
 ## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=medmaha&show_icons=true&theme=tokyonight" />
   <br/>
@@ -47,21 +41,19 @@
 
 ---
 
-## 🧭 Activity Graph
-
+## Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=medmaha&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
-
+## Connect
 <p align="center">
-  <a href="https://linkedin.com/in/mtouray101">
+  <a href="https://linkedin.com/in/medmaha">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:toure925@outlook.com">
+  <a href="mailto:mahammedtouraydev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -69,5 +61,5 @@
 ---
 
 <p align="center">
-  <i>"Building solutions that actually matter."</i>
+  <i>"I don't hand things off. I see them through."</i>
 </p>
