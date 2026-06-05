@@ -12,22 +12,15 @@
 
 ## About Me
 - 4+ years building and shipping production-grade web applications
-- Founder & Lead Engineer of [Dokoola](https://dokoola.com) — a live job marketplace serving 100+ talents and 35+ employers in The Gambia
+- Founder & Lead Engineer of [Dokoola](https://dokoola.com). A live job marketplace serving 100+ talents and 35+ employers in The Gambia
 - Delivered production systems for US and UK clients in distributed remote teams
 - Open to remote full-time and contract opportunities worldwide
 
 ---
 
-## Current Focus
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,nodejs,docker,postgres,mongodb,linux,git,nginx" />
-</p>
-
----
-
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nextjs,react,ts,redis,firebase,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,go,nodejs,docker,postgres,mongodb,linux,git,nginx,django,fastapi,nextjs,react,ts,redis,firebase,tailwind" />
 </p>
 
 ---
