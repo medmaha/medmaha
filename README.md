@@ -11,11 +11,7 @@
 ---
 
 ## About Me
-- 4+ years building and shipping production-grade web applications
-- Founder & Lead Engineer of [Dokoola](https://dokoola.com). A live job marketplace serving 100+ talents and 35+ employers in The Gambia
-- Delivered production systems for US and UK clients in distributed remote teams
-- Open to remote full-time and contract opportunities worldwide
-
+With 4+ years of experience building and shipping production software for enterprise and startup clients. Strongest in Python, Django, FastAPI, PostgreSQL, distributed systems, APIs, and cloud infrastructure, with full-stack experience across React, Next.js, Angular, and React Native. Experienced in teamwork and owning features end-to-end, from architecture and implementation through testing, deployment, and production support.
 ---
 
 ## Tech Stack
