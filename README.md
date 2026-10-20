@@ -9,9 +9,7 @@
 </p>
 
 ---
-
-## About Me
-With 4+ years of experience building and shipping production software for enterprise and startup clients. Strongest in Python, Django, NextJs, PostgreSQL, distributed systems, APIs, and cloud infrastructure.
+### With 4+ years of experience building and shipping production software for enterprise and startup clients. Strongest in Python, Django, NextJs, PostgreSQL, distributed systems, APIs, and cloud infrastructure.
 ---
 
 ## Tech Stack
