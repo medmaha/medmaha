@@ -14,7 +14,7 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,docker,postgres,django,fastapi,nextjs,ts,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,ts,docker,postgres,django,nextjs,fastapi,go,redis,firebase" />
 </p>
 
 ## Let's Connect
