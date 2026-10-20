@@ -8,11 +8,9 @@
   </a>
 </p>
 
----
 ### With 4+ years of experience building and shipping production software for enterprise and startup clients. Strongest in Python, Django, NextJs, PostgreSQL, distributed systems, APIs, and cloud infrastructure.
 ---
 
-## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,docker,postgres,django,nextjs,fastapi,go,redis,firebase" />
 </p>
